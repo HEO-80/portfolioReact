@@ -1,0 +1,13 @@
+{
+  "name": "create-component",
+  "version": "1.0.0",
+  "description": "CLI para crear componentes en React + Next.js",
+  "main": "index.mjs",
+  "type": "module",
+  "bin": {
+    "create-component": "./index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
