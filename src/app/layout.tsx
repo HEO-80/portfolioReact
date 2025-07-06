@@ -1,3 +1,4 @@
+import './globals.css'
 import Navbar from '@/components/sections/Navbar/Navbar'
 import Footer from '@/components/sections/Footer'
 import Sidebar from '@/components/sections/Sidebar/Sidebar'
